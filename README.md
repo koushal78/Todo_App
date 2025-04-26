@@ -34,8 +34,7 @@ cd Todo-app
 
 ```
 ## screensorts
-![Screenshot (122)](https://github![Screenshot (123)](https://github.com/user-attachments/assets/d20a5151-e613-4e43-bc51-84523238034b)
-.com/user-attachments/assets/b8f2ac2f-732d-474c-ab23-97fe2e291c83)
+![Screenshot (122)](https://github.com/user-attachments/assets/89847231-b5af-4d22-b9aa-62a3852be213)
 
 ## start command 
 - ** for runing backend run command in root
